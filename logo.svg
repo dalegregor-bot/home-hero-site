@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1a3c6e"/>
+      <stop offset="1" stop-color="#3cb878"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" fill="#ffffff"/>
+  <g transform="translate(12,16)">
+    <path d="M52 0L104 36V96a8 8 0 0 1-8 8H8a8 8 0 0 1-8-8V36L52 0z" fill="url(#g)" opacity="0.12"/>
+    <path d="M52 6L98 38v54a6 6 0 0 1-6 6H12a6 6 0 0 1-6-6V38L52 6z" fill="url(#g)" opacity="0.2"/>
+    <path d="M52 10L92 40v50a4 4 0 0 1-4 4H16a4 4 0 0 1-4-4V40L52 10z" fill="url(#g)"/>
+    <circle cx="52" cy="54" r="16" fill="#fff"/>
+    <path d="M52 40a14 14 0 1 1 0 28 14 14 0 0 1 0-28z" fill="#f05a28"/>
+  </g>
+  <text x="50%" y="90%" text-anchor="middle" font-size="16" font-family="Arial" fill="#1a3c6e">Home Hero</text>
+</svg>
